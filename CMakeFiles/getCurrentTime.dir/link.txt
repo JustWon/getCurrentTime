@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/getCurrentTime.dir/main.cpp.o  -o getCurrentTime -rdynamic 
